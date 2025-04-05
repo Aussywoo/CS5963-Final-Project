@@ -1,0 +1,9 @@
+/home/kali/Desktop/StormLib-master/CMakeFiles/storm.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/package.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/package_source.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/rebuild_cache.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/list_install_components.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/install.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/install/local.dir
+/home/kali/Desktop/StormLib-master/CMakeFiles/install/strip.dir
